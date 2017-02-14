@@ -1,6 +1,6 @@
 # このソフトウェアについて
 
-JSON-LDをJavaScriptで読み込む。
+JSON-LDでHTML要素を作る。
 
 # 開発環境
 
