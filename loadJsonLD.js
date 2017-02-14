@@ -1,5 +1,5 @@
 window.onload = function () {
-	person = JSON.parse(document.getElementById('person-ld').text)
+	person = JSON.parse(document.getElementById('person-ld').text);
     document.body.appendChild(createLinkTag(person.name, person.url));
 };
 function createLinkTag(text, href)
